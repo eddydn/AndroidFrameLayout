@@ -1,0 +1,4 @@
+AndroidFrameLayout.MainActivity, AndroidFrameLayout;md5476a8335366dc1c1ae8532aec82e4a49.MainActivity
+AndroidFrameLayout.MainActivity, AndroidFrameLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5476a8335366dc1c1ae8532aec82e4a49.MainActivity
+AndroidFrameLayout.MainActivity;md5476a8335366dc1c1ae8532aec82e4a49.MainActivity
+androidframelayout.MainActivity;md5476a8335366dc1c1ae8532aec82e4a49.MainActivity
